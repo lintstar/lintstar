@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Lintstar 👋
+
+- 🌟 Platform at [sec.lintstar.top](https://sec.lintstar.top/)
+- 🏠 Center at [red.lintstar.top](https://red.lintstar.top/)
+- 📩 Reach me by [sending me an email](mailto:admin@lintstar.top)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lintstar&count_private=true&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
